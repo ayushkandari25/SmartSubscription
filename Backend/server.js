@@ -25,7 +25,7 @@ mongoose
 
 
 app.get("/", (req, res) => {
-  res.send("Smart Subscription API is running");
+  res.send("Smart Subscription API is running This Backend is created by Ayush Kandari");
 });
 
   
